@@ -21,27 +21,26 @@ This repository contains beginner to intermediate C/C++ programs covering core p
 - STL (Standard Template Library)
 - Data Structures & Algorithms
 - Pattern Programs
-- Mini Projects
-
-💻 Mini Projects
-
-- Expense Tracker
-- Student Management System
-- Calculator
-- Number Guessing Game
-- Banking System
-- And more...
 
 🛠️ Technologies
 
 - C
 - C++
-- GCC / G++
 - Visual Studio Code
 
 🎯 Purpose
 
 This repository showcases my programming journey, problem-solving skills, and C/C++ projects while continuously learning and improving.
+
+References
+
+This repository was creted for learning and practice. Some concepts and exercises were learned from:
+
+- College Notes
+- C & C++ Documents
+- YouTube Tutorials (codeWithHarry, Apna College (DSA), etc.)
+- ChatGPT (Concept Explanation)
+- Books
 
 📄 License
 
